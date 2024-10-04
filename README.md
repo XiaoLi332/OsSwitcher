@@ -2,7 +2,9 @@
 
 **OsSwitcher** 是一款简洁、实用的系统切换工具，允许用户在操作系统正常运行时
 
-无缝切换到其他操作系统，无需在启动阶段手动选择 GRUB 菜单。
+立刻重启切换到其他操作系统，无需在启动阶段手动选择 GRUB 菜单。
+
+欢迎各位前辈帮忙review。
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/abd0a4e1-44e3-4c3a-9609-b32ef3b19970" alt="OsSwitcher" width="50%">
